@@ -34,66 +34,26 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GeneratedFiles\Debug\moc_qshell.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_qshell.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_CommandProvider.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_CommandProvider.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_QShellContextMenuBuilder.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_QShellContextMenuBuilder.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_QShellSyntaxHighlighter.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_QShellSyntaxHighlighter.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_ScriptEvaluatorKeyHandler.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_ScriptEvaluatorKeyHandler.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_HistoryKeyHandler.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_HistoryKeyHandler.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_QShellCompleter.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_QShellCompleter.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_CompleterKeyHandler.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_CompleterKeyHandler.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_KeyPressHandler.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_KeyPressHandler.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_DefaultKeyHandler.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_DefaultKeyHandler.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <ClCompile Include="CompleterKeyHandler.cpp">
       <Filter>Handlers</Filter>
     </ClCompile>
@@ -137,20 +97,14 @@
       <Filter>Core</Filter>
     </ClCompile>
     <ClCompile Include="qshell.cpp" />
-    <ClCompile Include="GeneratedFiles\Debug\moc_ClearConsole.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_ClearConsole.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="ClearConsole.cpp">
       <Filter>Engine</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GeneratedFiles\ui_ShellWidget.h">
-      <Filter>Generated Files</Filter>
-    </ClInclude>
+    
     <ClInclude Include="MiscKeyHandler.h">
       <Filter>Handlers</Filter>
     </ClInclude>
@@ -186,39 +140,39 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="Forms\ShellWidget.ui">
+    <QtUic Include="Forms\ShellWidget.ui">
       <Filter>Form Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="CompleterKeyHandler.h">
+    </QtUic>
+    <QtMoc Include="CompleterKeyHandler.h">
       <Filter>Handlers</Filter>
-    </CustomBuild>
-    <CustomBuild Include="DefaultKeyHandler.h">
+    </QtMoc>
+    <QtMoc Include="DefaultKeyHandler.h">
       <Filter>Handlers</Filter>
-    </CustomBuild>
-    <CustomBuild Include="HistoryKeyHandler.h">
+    </QtMoc>
+    <QtMoc Include="HistoryKeyHandler.h">
       <Filter>Handlers</Filter>
-    </CustomBuild>
-    <CustomBuild Include="KeyPressHandler.h">
+    </QtMoc>
+    <QtMoc Include="KeyPressHandler.h">
       <Filter>Handlers</Filter>
-    </CustomBuild>
-    <CustomBuild Include="ScriptEvaluatorKeyHandler.h">
+    </QtMoc>
+    <QtMoc Include="ScriptEvaluatorKeyHandler.h">
       <Filter>Handlers</Filter>
-    </CustomBuild>
-    <CustomBuild Include="QShellContextMenuBuilder.h">
+    </QtMoc>
+    <QtMoc Include="QShellContextMenuBuilder.h">
       <Filter>Support</Filter>
-    </CustomBuild>
-    <CustomBuild Include="QShellSyntaxHighlighter.h">
+    </QtMoc>
+    <QtMoc Include="QShellSyntaxHighlighter.h">
       <Filter>Core</Filter>
-    </CustomBuild>
-    <CustomBuild Include="QShellCompleter.h">
+    </QtMoc>
+    <QtMoc Include="QShellCompleter.h">
       <Filter>Core</Filter>
-    </CustomBuild>
-    <CustomBuild Include="CommandProvider.h">
+    </QtMoc>
+    <QtMoc Include="CommandProvider.h">
       <Filter>Core</Filter>
-    </CustomBuild>
-    <CustomBuild Include="qshell.h" />
-    <CustomBuild Include="ClearConsole.h">
+    </QtMoc>
+    <QtMoc Include="qshell.h" />
+    <QtMoc Include="ClearConsole.h">
       <Filter>Engine</Filter>
-    </CustomBuild>
+    </QtMoc>
   </ItemGroup>
 </Project>

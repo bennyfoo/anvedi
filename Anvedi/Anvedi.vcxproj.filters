@@ -41,153 +41,87 @@
     <ClCompile Include="anvedi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_anvedi.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_anvedi.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\qrc_anvedi.cpp">
-      <Filter>Generated Files</Filter>
-    </ClCompile>
+    
+    
+    
     <ClCompile Include="qcustomplot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_qcustomplot.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_qcustomplot.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="GraphPresenter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_GraphPresenter.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_GraphPresenter.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="PlotCursor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_PlotCursor.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_PlotCursor.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="SignalListPresenter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_SignalListPresenter.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_SignalListPresenter.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="ScriptManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="SignalData.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_SignalData.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
+    
     <ClCompile Include="SignalHandle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_SignalHandle.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_SignalHandle.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_SignalData.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
+    
     <ClCompile Include="RectZoomer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_RectZoomer.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_RectZoomer.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="PlotHandle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_PlotHandle.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_PlotHandle.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_PlotInfo.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_PlotInfo.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
+    
+    
     <ClCompile Include="PlotInfo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Utils.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_qmlPen.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_qmlPen.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="qml-lib\qmlPen.cpp">
       <Filter>qml-lib</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_qmlScatterStyle.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
+    
     <ClCompile Include="qml-lib\qmlScatterStyle.cpp">
       <Filter>qml-lib</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_qmlScatterStyle.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_qmlLegend.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_qmlLegend.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
+    
     <ClCompile Include="qml-lib\qmlLegend.cpp">
       <Filter>qml-lib</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_qmlAxis.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_qmlGraph.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="qml-lib\qmlGraph.cpp">
       <Filter>qml-lib</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_qmlGraph.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_qmlPlotPaintedItem.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_qmlPlotPaintedItem.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
+    
     <ClCompile Include="qml-lib\qmlPlotPaintedItem.cpp">
       <Filter>qml-lib</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_qmlAxis.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
     <ClCompile Include="qml-lib\RegisterAll.cpp">
       <Filter>qml-lib</Filter>
     </ClCompile>
@@ -203,187 +137,149 @@
     <ClCompile Include="qml-lib\qmlAxis.cpp">
       <Filter>qml-lib</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_qmlLabel.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_qmlLabel.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_qmlTick.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_qmlTick.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
+    
+    
     <ClCompile Include="qml-lib\qmlTick.cpp">
       <Filter>qml-lib</Filter>
     </ClCompile>
     <ClCompile Include="RealTimePlayer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_RealTimePlayer.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_RealTimePlayer.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="RealTimePresenter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_RealTimePresenter.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_RealTimePresenter.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="RTSender.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_RTSender.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_RTSender.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="RTUtils.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="RTInteractiveFileSender.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_RTInteractiveFileSender.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_RTInteractiveFileSender.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="RTInteractiveSender.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_RTInteractiveSender.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_RTInteractiveSender.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="SignalInfoPresenter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_SignalInfoPresenter.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_SignalInfoPresenter.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
     <ClCompile Include="RTSocketPlayer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_RTSocketPlayer.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_RTSocketPlayer.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
+    
+    
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="anvedi.h">
+    <QtMoc Include="anvedi.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="anvedi.ui">
+    </QtMoc>
+    <QtUic Include="anvedi.ui">
       <Filter>Form Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="anvedi.qrc">
+    </QtUic>
+    <QtRcc Include="anvedi.qrc">
       <Filter>Resource Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="qcustomplot.h">
+    </QtRcc>
+    <QtMoc Include="qcustomplot.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="GraphPresenter.h">
+    </QtMoc>
+    <QtMoc Include="GraphPresenter.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="PlotCursor.h">
+    </QtMoc>
+    <QtMoc Include="PlotCursor.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="SignalListPresenter.h">
+    </QtMoc>
+    <QtMoc Include="SignalListPresenter.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
+    </QtMoc>
     <CustomBuild Include="Signal.h">
       <Filter>Header Files</Filter>
     </CustomBuild>
     <CustomBuild Include="ScriptManager.h">
       <Filter>Header Files</Filter>
     </CustomBuild>
-    <CustomBuild Include="SignalData.h">
+    <QtMoc Include="SignalData.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="SignalHandle.h">
+    </QtMoc>
+    <QtMoc Include="SignalHandle.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="RectZoomer.h">
+    </QtMoc>
+    <QtMoc Include="RectZoomer.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="PlotHandle.h">
+    </QtMoc>
+    <QtMoc Include="PlotHandle.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="PlotInfo.h">
+    </QtMoc>
+    <QtMoc Include="PlotInfo.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="qml-lib\qmlPen.h">
+    </QtMoc>
+    <QtMoc Include="qml-lib\qmlPen.h">
       <Filter>qml-lib</Filter>
-    </CustomBuild>
-    <CustomBuild Include="qml-lib\qmlScatterStyle.h">
+    </QtMoc>
+    <QtMoc Include="qml-lib\qmlScatterStyle.h">
       <Filter>qml-lib</Filter>
-    </CustomBuild>
-    <CustomBuild Include="qml-lib\qmlLegend.h">
+    </QtMoc>
+    <QtMoc Include="qml-lib\qmlLegend.h">
       <Filter>qml-lib</Filter>
-    </CustomBuild>
-    <CustomBuild Include="qml-lib\qmlAxis.h">
+    </QtMoc>
+    <QtMoc Include="qml-lib\qmlAxis.h">
       <Filter>qml-lib</Filter>
-    </CustomBuild>
-    <CustomBuild Include="qml-lib\qmlGraph.h">
+    </QtMoc>
+    <QtMoc Include="qml-lib\qmlGraph.h">
       <Filter>qml-lib</Filter>
-    </CustomBuild>
-    <CustomBuild Include="qml-lib\qmlPlotPaintedItem.h">
+    </QtMoc>
+    <QtMoc Include="qml-lib\qmlPlotPaintedItem.h">
       <Filter>qml-lib</Filter>
-    </CustomBuild>
-    <CustomBuild Include="qml-lib\qmlLabel.h">
+    </QtMoc>
+    <QtMoc Include="qml-lib\qmlLabel.h">
       <Filter>qml-lib</Filter>
-    </CustomBuild>
-    <CustomBuild Include="qml-lib\qmlTick.h">
+    </QtMoc>
+    <QtMoc Include="qml-lib\qmlTick.h">
       <Filter>qml-lib</Filter>
-    </CustomBuild>
-    <CustomBuild Include="RealTimePlayer.h">
+    </QtMoc>
+    <QtMoc Include="RealTimePlayer.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="RealTimePresenter.h">
+    </QtMoc>
+    <QtMoc Include="RealTimePresenter.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="rtConfig.ui">
+    </QtMoc>
+    <QtUic Include="rtConfig.ui">
       <Filter>Form Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="RTSender.h">
+    </QtUic>
+    <QtMoc Include="RTSender.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="RTInteractiveFileSender.h">
+    </QtMoc>
+    <QtMoc Include="RTInteractiveFileSender.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="RTInteractiveSender.h">
+    </QtMoc>
+    <QtMoc Include="RTInteractiveSender.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="signalInfo.ui">
+    </QtMoc>
+    <QtUic Include="signalInfo.ui">
       <Filter>Form Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="SignalInfoPresenter.h">
+    </QtUic>
+    <QtMoc Include="SignalInfoPresenter.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="RTSocketPlayer.h">
+    </QtMoc>
+    <QtMoc Include="RTSocketPlayer.h">
       <Filter>Header Files</Filter>
-    </CustomBuild>
+    </QtMoc>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GeneratedFiles\ui_anvedi.h">
-      <Filter>Generated Files</Filter>
-    </ClInclude>
+    
     <ClInclude Include="Utils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -393,14 +289,10 @@
     <ClInclude Include="WorkspaceSerializer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="GeneratedFiles\ui_rtConfig.h">
-      <Filter>Generated Files</Filter>
-    </ClInclude>
+    
     <ClInclude Include="RTUtils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="GeneratedFiles\ui_signalInfo.h">
-      <Filter>Generated Files</Filter>
-    </ClInclude>
+    
   </ItemGroup>
 </Project>
